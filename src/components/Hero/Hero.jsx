@@ -17,7 +17,7 @@ const Hero = () => {
       // console.log(data)
     };
     fetchDataFunc();
-  });
+  },[]);
 
   // console.log(userAboutData)
 
