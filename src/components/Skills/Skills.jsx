@@ -1,6 +1,6 @@
 const Skills = () => {
     return (
-        <div id="skills">
+        <div id="skills" className="min-h-screen flex justify-center items-center">
             skills
         </div>
     );

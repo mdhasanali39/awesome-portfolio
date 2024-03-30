@@ -1,6 +1,6 @@
 const Services = () => {
     return (
-        <div id="services">
+        <div id="services" className="min-h-screen flex justify-center items-center">
             services
         </div>
     );

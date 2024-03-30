@@ -1,0 +1,11 @@
+.navList li a {
+  color: white;
+}
+
+.navList .active {
+  color: rgb(59, 130, 246) !important;
+}
+.navList{
+   background-color:#100720;
+   /* background-color:rgb(13, 27, 49); */
+}
